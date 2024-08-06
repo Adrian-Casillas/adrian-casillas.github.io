@@ -13,7 +13,7 @@ author_profile: true
 
 # Published Papers
 
-[(Dis)Information Wars](https://www.brookings.edu/wp-content/uploads/2024/02/Disinformation-wars.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), L. Hashemi, [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2024). Brookings Center of Regulations and Markets.
+[(Dis)Information Wars](https://www.brookings.edu/wp-content/uploads/2024/02/Disinformation-wars.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), [L. Hashemi](https://scholar.google.com/citations?user=pH199JIAAAAJ&hl=en), [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2024). Brookings Center of Regulations and Markets.
 
 # Working Papers
 
