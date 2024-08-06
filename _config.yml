@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adrian Casillas"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "temp.png"
   name             : "Adrian Casillas"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Finance PhD Student"
   location         : "NYC"
   employer         : "NYU Stern School of Business"
   uri              : # URL
