@@ -26,6 +26,7 @@ author_profile: true
 [Analyzing the Effect of {PPP} Loan Issuances to Regional Economies](https://www.bbvaresearch.com/en/publicaciones/analyzing-the-effect-of-ppp-loan-issuances-to-regional-economies/) (with N. Karp, 2021). BBVA Research.
 
 [BBVA U.S. MSA Civil Unrest Index](https://www.bbvaresearch.com/en/publicaciones/u-s-economic-outlook-4q20/) (2020). BBVA Research.
+
 [Tracing the Impact of the CARES Act's Relief Payments Towards the Covid-19 Crisis Recovery](https://www.bbvaresearch.com/en/publicaciones/u-s-economic-outlook-third-quarter-2020/) (2020). BBVA Research.
 
 [Visualizing the {Covid-19} Pandemic in the Sunbelt](https://www.bbvaresearch.com/en/publicaciones/u-s-economic-outlook-second-quarter-2020/) (2020). BBVA Research.
