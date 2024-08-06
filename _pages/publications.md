@@ -34,7 +34,7 @@ author_profile: true
 
 [Tripping Over the Edge of the Cliff – Business and Credit Cycles, Financial Instability and Recession Triggers](https://www.bbvaresearch.com/wp-content/uploads/2019/12/WP1913_TrippingOverTheEdge.pdf) (with F. Blazheski, 2019). BBVA Research: Working Papers. 9/13.
 
-[Turf Trade War: A Regional Analysis of the U.S.-China Trade War] (2019). BBVA Research.
+[Turf Trade War: A Regional Analysis of the U.S.-China Trade War](https://www.bbvaresearch.com/en/publicaciones/u-s-economic-outlook-fourth-quarter-2019/) (2019). BBVA Research.
 
 [U.S.-China Trade War: No End in Sight](https://www.bbvaresearch.com/en/publicaciones/united-states-economic-outlook-third-quarter-2018/) (with B. Nash-Stacey, 2018). BBVA Research.
 
