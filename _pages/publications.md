@@ -13,9 +13,11 @@ author_profile: true
 
 # Working Papers
 
-[Information and Market Power in DeFi Intermediation](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1102.pdf?sc_lang=en) (with [P. Azar](https://www.newyorkfed.org/research/economists/Azar) and [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), 2024)
+[Information and Market Power in DeFi Intermediation](https://www.nber.org/system/files/working_papers/w32949/w32949.pdf) (with [P. Azar](https://www.newyorkfed.org/research/economists/Azar) and [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), 2024)
 
-[(Dis)Information Wars](https://www.brookings.edu/wp-content/uploads/2024/02/Disinformation-wars.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), [L. Hashemi](https://scholar.google.com/citations?user=pH199JIAAAAJ&hl=en), [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2024). Brookings Center of Regulations and Markets.
+[(Dis)Information Wars](https://www.nber.org/system/files/working_papers/w32896/w32896.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), [L. Hashemi](https://scholar.google.com/citations?user=pH199JIAAAAJ&hl=en), [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2024). Brookings Center of Regulations and Markets.
+
+The Informed Winner's Curse: The Role Signal Structure in Overvaluation with Evidence from Cryptocurrency Auctions (2025). [email me for a working draft](mailto:adriancasillas@nyu.edu)
 
 # Non-Academic Articles
 
