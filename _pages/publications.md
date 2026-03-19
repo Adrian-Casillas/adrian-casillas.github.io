@@ -13,13 +13,13 @@ author_profile: true
 
 # Working Papers
 
-[Information and Market Power in DeFi Intermediation](https://www.nber.org/system/files/working_papers/w32949/w32949.pdf) (with [P. Azar](https://pabloazar.github.io/) and [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), 2024)
+[Natural Centralization in Decentralized Finance](https://drive.google.com/file/d/1r8IlYeLhaEljKNtXK7h6oenkCA0euxGF/view?pli=1) (with [P. Azar](https://pabloazar.github.io/) and [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), 2026)
 
-[(Dis)Information Wars](https://www.nber.org/system/files/working_papers/w32896/w32896.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), [L. Hashemi](https://scholar.google.com/citations?user=pH199JIAAAAJ&hl=en), [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2024).
+[(Dis)Information Wars](https://www.nber.org/system/files/working_papers/w32896/w32896.pdf) (with [M. Farboodi](https://sites.google.com/site/maryamfarboodi/home), [L. Hashemi](https://scholar.google.com/citations?user=pH199JIAAAAJ&hl=en), [M. Saeedi](https://scholar.google.com/citations?user=5qWawgkAAAAJ&hl=en) and [S. Wilson](https://scholar.google.com/citations?user=R4ICpa0AAAAJ&hl=en), 2025).
 
 # Works in Progress
 
-The Informed Winner's Curse: The Role Signal Structure in Overvaluation with Evidence from Cryptocurrency Auctions (2025). [Email me for a working draft.](mailto:adriancasillas@nyu.edu)
+The Informed Winner's Curse: The Role of Signal Structure in Overvaluation with Evidence from Cryptocurrency Auctions (2026). [Email me for a working draft.](mailto:adriancasillas@nyu.edu)
 
 
 
