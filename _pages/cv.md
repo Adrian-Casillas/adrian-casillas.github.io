@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here's a link to my [CV](./CV.pdf) (updated August 2025).
+Here's a link to my [CV](./CV.pdf) (updated March 2026).
